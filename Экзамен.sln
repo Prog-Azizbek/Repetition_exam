@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Экзамен proj", "Экзамен proj\Экзамен proj.csproj", "{7769D966-20EB-459F-8203-81A48B9C6F5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Экзамен proj_2", "Экзамен proj_2\Экзамен proj_2.csproj", "{329B0328-20DC-41E4-AB67-AAF173093E2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZДополнительно", "Экзамен proj_2\ZДополнительно.csproj", "{329B0328-20DC-41E4-AB67-AAF173093E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Двумерный массив добавить столбец с номером K", "Двумерный массив добавить столбец с номером K\Двумерный массив добавить столбец с номером K.csproj", "{E343187F-1C68-4E87-B134-16CADA722B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Удаление 3 мин элементов", "Удаление 3 мин элементов\Удаление 3 мин элементов.csproj", "{3BD4C575-58C0-4055-AD56-FE53437DB817}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{329B0328-20DC-41E4-AB67-AAF173093E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{329B0328-20DC-41E4-AB67-AAF173093E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{329B0328-20DC-41E4-AB67-AAF173093E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E343187F-1C68-4E87-B134-16CADA722B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E343187F-1C68-4E87-B134-16CADA722B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E343187F-1C68-4E87-B134-16CADA722B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E343187F-1C68-4E87-B134-16CADA722B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD4C575-58C0-4055-AD56-FE53437DB817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD4C575-58C0-4055-AD56-FE53437DB817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD4C575-58C0-4055-AD56-FE53437DB817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD4C575-58C0-4055-AD56-FE53437DB817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
